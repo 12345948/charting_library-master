@@ -1,4 +1,5 @@
 # TradingView Advanced Charts
+# kindly give a star if you find it helpful
 
 [Demo][demo-url] | [Documentation][doc-url] | [Tutorial][tutorial-url] | [Discord community][discord-url]
 
